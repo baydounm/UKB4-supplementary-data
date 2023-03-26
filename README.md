@@ -22,4 +22,6 @@ Supplementary materials include the following:
    Output_overall_F_INFECTIONPARMS.dta
    R_SCRIPT_VOLCANOPLOT.R
 
+--STATA_SCRIPT folder: UKB_PAPER4_LE8INFECTMRI_GITHUB.do
+
 
