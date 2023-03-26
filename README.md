@@ -8,3 +8,13 @@ May A. Beydoun1,#; Hind A. Beydoun2,#; Shawn Gale3;  Dawson Hedges3; Jordan Weis
 Published in: xxx (2023), vol. xx, No. xx, P. xx-xx
 
 Supplementary materials include the following:
+--FIGURE 2 folder
+  --BRAINIMAGE_ATLAS folder: *.nii.gz file(s)
+  --BRAINIMAGE_MNI152 folder: *.nii.gz file(s)
+  --BRAINIMAGE_OVERLAYS folder: *.nii.gz file(s)
+*.PNG files
+*.xlsx files
+*.txt files
+*.html files
+
+--FIGURE 3 folder
