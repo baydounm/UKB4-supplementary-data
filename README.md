@@ -18,3 +18,8 @@ Supplementary materials include the following:
 *.html files
 
 --FIGURE 3 folder
+   FIGURE3.pdf
+   Output_overall_F_INFECTIONPARMS.dta
+   R_SCRIPT_VOLCANOPLOT.R
+
+
